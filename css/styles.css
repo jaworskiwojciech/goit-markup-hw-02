@@ -1,0 +1,28 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #212121;
+}
+address {
+  font-style: normal;
+}
+.list-item-box {
+  width: 370px;
+  height: 404px;
+  border: 1px solid #eeeeee;
+}
+.webstudio-font {
+  font-family: "Raleway", sans-serif;
+  text-decoration: none;
+  color: #000000;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+}
+.web-color {
+  color: #2196f3;
+}
+.figcaption {
+  margin-left: 24px;
+  margin-top: 20px;
+}
