@@ -10,19 +10,44 @@ address {
   height: 404px;
   border: 1px solid #eeeeee;
 }
-.webstudio-font {
+.webstudio {
   font-family: "Raleway", sans-serif;
   text-decoration: none;
-  color: #000000;
+  color: #2196f3;
   font-weight: 700;
   font-size: 26px;
   line-height: 31px;
   letter-spacing: 0.03em;
 }
-.web-color {
-  color: #2196f3;
+.studio {
+  color: #000000;
+}
+.studio-in-footer {
+  color: #ffffff;
 }
 .figcaption {
   margin-left: 24px;
   margin-top: 20px;
+}
+.list-style {
+  list-style-type: none;
+}
+.button {
+  cursor: pointer;
+}
+.contact-item {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #757575;
+  text-decoration: none;
+}
+.contact-item:hover {
+  color: tomato;
+}
+.contact-item:focus {
+  color: tomato;
+}
+.footer-style {
+  background-color: #2f303a;
 }
