@@ -54,6 +54,10 @@ address {
   background-color: #2196f3;
   color: #ffffff;
 }
+.button:focus {
+  background-color: #2196f3;
+  color: #ffffff;
+}
 .contact-item {
   font-weight: 500;
   font-size: 14px;
