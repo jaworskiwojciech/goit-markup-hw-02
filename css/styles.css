@@ -51,10 +51,7 @@ address {
   letter-spacing: 0.03em;
   padding: 6px 22px 6px 22px;
 }
-.button:hover {
-  background-color: #2196f3;
-  color: #ffffff;
-}
+.button:hover,
 .button:focus {
   background-color: #2196f3;
   color: #ffffff;
@@ -66,9 +63,7 @@ address {
   color: #757575;
   text-decoration: none;
 }
-.contact-item:hover {
-  color: #2196f3;
-}
+.contact-item:hover,
 .contact-item:focus {
   color: #2196f3;
 }
@@ -97,9 +92,7 @@ address {
   text-decoration: none;
   color: #212121;
 }
-.navigation-item:hover {
-  color: #2196f3;
-}
+.navigation-item:hover,
 .navigation-item:focus {
   color: #2196f3;
 }
